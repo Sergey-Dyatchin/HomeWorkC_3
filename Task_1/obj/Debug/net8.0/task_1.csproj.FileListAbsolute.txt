@@ -1,0 +1,15 @@
+C:\study\Git_r\HomeWork_C_3\Task_1\bin\Debug\net8.0\task_1.exe
+C:\study\Git_r\HomeWork_C_3\Task_1\bin\Debug\net8.0\task_1.deps.json
+C:\study\Git_r\HomeWork_C_3\Task_1\bin\Debug\net8.0\task_1.runtimeconfig.json
+C:\study\Git_r\HomeWork_C_3\Task_1\bin\Debug\net8.0\task_1.dll
+C:\study\Git_r\HomeWork_C_3\Task_1\bin\Debug\net8.0\task_1.pdb
+C:\study\Git_r\HomeWork_C_3\Task_1\obj\Debug\net8.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\Git_r\HomeWork_C_3\Task_1\obj\Debug\net8.0\task_1.AssemblyInfoInputs.cache
+C:\study\Git_r\HomeWork_C_3\Task_1\obj\Debug\net8.0\task_1.AssemblyInfo.cs
+C:\study\Git_r\HomeWork_C_3\Task_1\obj\Debug\net8.0\task_1.csproj.CoreCompileInputs.cache
+C:\study\Git_r\HomeWork_C_3\Task_1\obj\Debug\net8.0\task_1.sourcelink.json
+C:\study\Git_r\HomeWork_C_3\Task_1\obj\Debug\net8.0\task_1.dll
+C:\study\Git_r\HomeWork_C_3\Task_1\obj\Debug\net8.0\refint\task_1.dll
+C:\study\Git_r\HomeWork_C_3\Task_1\obj\Debug\net8.0\task_1.pdb
+C:\study\Git_r\HomeWork_C_3\Task_1\obj\Debug\net8.0\task_1.genruntimeconfig.cache
+C:\study\Git_r\HomeWork_C_3\Task_1\obj\Debug\net8.0\ref\task_1.dll
